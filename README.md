@@ -2,6 +2,8 @@
 
 2D platformer in which the player must survive as many rounds as possible by disinfecting surfaces, giving masks to NPCs, and sending infected NPCs into isolation!
 
+Video demo: https://youtu.be/cDHqTWALG_c
+
 CONTROLS
 
 - Left/Right Arrow keys for horizontal movement
